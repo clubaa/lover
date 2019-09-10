@@ -138,5 +138,17 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubaa/lover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clubaa/lover/issues"
+  },
+  "homepage": "https://github.com/clubaa/lover#readme"
 }
